@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+<html dir="rtl" lang="fa-ir">
+<head>
+  <meta charset="utf-8">
 
-You can use the [editor on GitHub](https://github.com/meti8818/eslami-majid/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+  <title>www.lavazem.khodru.ir</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
+<body dir="rtl" bgcolor="#999dao">
+</body>
+<body dir="rtl">
+  <p style="color:red">
+1️⃣فروش لوازم خودرو با مدیرت آقای اسلامی
+</p>
+<center>
+  <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Franco1.com%2Fwp-content%2Fuploads%2F2019%2F09%2F%25D9%2584%25D9%2588%25D8%25A7%25D8%25B2%25D9%2585-%25DB%258C%25D8%25AF%25DA%25A9%25DB%258C-%25D8%25B1%25D8%25A7%25D9%2586%25DA%25A9%25D9%2588.png&imgrefurl=http%3A%2F%2Franco1.com%2F&tbnid=1rpQNNpR-ZqkRM&vet=12ahUKEwi99dLAo6T4AhUBdRoKHV0rD88QMygPegUIARCTAg..i&docid=i09E1GFWs7McfM&w=765&h=267&q=%D9%84%D9%88%DA%AF%D9%88%20%D9%84%D9%88%D8%A7%D8%B2%D9%85%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20png&client=ms-android-samsung-ga-rev1&ved=2ahUKEwi99dLAo6T4AhUBdRoKHV0rD88QMygPegUIARCTAg" width="180px" height="190px" align="left,top">
+  </center>
 
-### Markdown
+  <hr color="green" size="4px">
+  <span style="color:white">
+ 2️⃣ عرضه کلی لوازم یدکی خودرو با بهترین سابقه
+</span>
+<hr color="red" size="4px">
+<span style="color:cyan"> 
+واقع در بازر تهران با بهترین پشتیبانی حضوری در صورت خرید
+3️⃣</span>
+<hr color="blue">
+<ol>
+  <li>تیم قوی پشتیبانی</li>
+  <li> بهترین کیفیت ممکن </li>
+<li>رضایت موجود در حومه</li>
+<li><s>گارانتی کالا</s></li>
+<li><s>ضمانت بازگشت وجه</s></li>
+</ol>
+<html>
+  <hr color="white"
+<body dir="rtl">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<form action="files/get_data2.php" method="POST">
+ جواب سوالات متداول :
+<select name="سوالات فروشگاه">
+ <option value="Persepolis">نحوه پرداخت وجه</option>
+ <option value="Sepahan">سوالات درباره نحوه سفارش</option>
+ <option value="Tractor">سوالات و پشتیبانی</option>
+ <option value="other">برای خرید کالا</option>
+</select>
+ <input type="submit" value="ارسال">
+</form>
 
-```markdown
-Syntax highlighted code block
+</body>
+</html>
 
-# Header 1
-## Header 2
-### Header 3
+</menu>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+</body>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meti8818/eslami-majid/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+</html>
